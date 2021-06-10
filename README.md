@@ -1,12 +1,13 @@
-# Task_2
+# Task_3
 
-Make a landing page with parallax scrolling backgrounds:
+Build a landing page using grid layout.
+
 
 ---
 ## Output
 
 
-https://user-images.githubusercontent.com/83500463/121553371-d5d8e580-ca2e-11eb-9a6a-8bd8ffda9780.mp4
+
 
 
 
